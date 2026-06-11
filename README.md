@@ -9,6 +9,15 @@
   <a href="https://www.linkedin.com/in/virginia-mwega-196309313/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://virginia-mwega.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1a7f37?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://virginiamwega-com.vercel.app/">
+    <img src="https://img.shields.io/badge/Writing-7c3aed?logo=vercel&logoColor=white" alt="Writing" />
+  </a>
+  <a href="mailto:virginiamwega2@gmail.com?subject=CV%20Request">
+    <img src="https://img.shields.io/badge/Request%20CV-0a66c2?logo=maildotru&logoColor=white" alt="Request CV" />
+  </a>
   <a href="https://medium.com/@virginiamwega2">
     <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium" />
   </a>
@@ -51,6 +60,9 @@ A 30-second daily check-in turns into a personalised plan, powered by a
 ### 📫 Get in touch
 
 - 💼 **LinkedIn:** [in/virginia-mwega](https://www.linkedin.com/in/virginia-mwega-196309313/)
+- 🗂️ **Portfolio:** [virginia-mwega.vercel.app](https://virginia-mwega.vercel.app/)
+- ✍️ **Writing portfolio:** [virginiamwega-com.vercel.app](https://virginiamwega-com.vercel.app/)
+- 📄 **CV:** [Email me and I'll send it over](mailto:virginiamwega2@gmail.com?subject=CV%20Request)
 - ✍️ **Medium:** [@virginiamwega2](https://medium.com/@virginiamwega2)
 - 🧑‍💻 **Hashnode:** [@veemwega](https://hashnode.com/@veemwega)
 - ✉️ **Email:** [virginiamwega2@gmail.com](mailto:virginiamwega2@gmail.com)
