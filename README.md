@@ -6,8 +6,17 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/virginia-mwega-196309313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@virginiamwega2">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://hashnode.com/@veemwega">
+    <img src="https://img.shields.io/badge/Hashnode-2962ff?logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
   <a href="mailto:virginiamwega2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-virginiamwega2@gmail.com-d14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Yes-2ea44f" alt="Open to work" />
 </p>
@@ -41,7 +50,10 @@ A 30-second daily check-in turns into a personalised plan, powered by a
 
 ### 📫 Get in touch
 
+- 💼 **LinkedIn:** [in/virginia-mwega](https://www.linkedin.com/in/virginia-mwega-196309313/)
+- ✍️ **Medium:** [@virginiamwega2](https://medium.com/@virginiamwega2)
+- 🧑‍💻 **Hashnode:** [@veemwega](https://hashnode.com/@veemwega)
 - ✉️ **Email:** [virginiamwega2@gmail.com](mailto:virginiamwega2@gmail.com)
-- 💼 **Open to work** — founder / full-stack / AI engineering roles and collaborations.
+- 🟢 **Open to work** — founder / full-stack / AI engineering roles and collaborations.
 
 <p align="center"><sub>Building for parents who rarely get any care themselves. 🌿</sub></p>
