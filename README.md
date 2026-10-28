@@ -1,4 +1,4 @@
-👋# Hi, I'm Virginia 
+👋 Hi, I'm Virginia 
 
 ### AI Developer Documentation · Developer Experience (DevEx) · APIs, SDKs & LLM Integrations
 
